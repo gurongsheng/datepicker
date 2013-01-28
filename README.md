@@ -12,6 +12,9 @@ datepicker
     支持每周第一天是周几定制。  
     默认界面仿chorme下的input[type=date]。  
     多语言多日期格式支持。  
+  
+  截图：  
+  ![snapshot](http://banqiaoju.com/wp-content/uploads/2013/01/307496A8-1A4C-4258-A4FD-1E652B22836A.jpg)
 
 使用说明：
 ==========
